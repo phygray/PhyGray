@@ -33,5 +33,5 @@
 ## 找到我
 ***  
 ![](https://img.shields.io/static/v1?label=b站&message=源始太灰&color=brightgreen&logo=bilibili&style=social)  
-<img style="margin-top:10px" src='/fffxx/img/share-bilibili.jpg' width="200">
+<img style="margin-top:10px" src='https://phygray.gitee.io/fffxx/img/share-bilibili.jpg' width="200">
 
