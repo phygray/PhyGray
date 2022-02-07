@@ -8,18 +8,19 @@
 
 ***
 
-### `主栈 - 专业`
+![](https://img.shields.io/static/v1?label=主栈&message=专业&color=eee&style=for-the-badge)
 
 `Vue` `微信小程序` `Node`  `ES6` `jQuery` `Git` ~~`* Angular`~~ ~~` *Cordova`~~  
 `Webpack` `Vite` `Vuex` `Pinia` `Sass` `Less`  
 `element` `iView` `vant` ~~`* Bootstrap`~~ ~~`* EasyUI`~~ ~~`* Layui`~~  
 
-### `辅栈 - 业余`
+
+![](https://img.shields.io/static/v1?label=辅栈&message=业余&color=eee&style=for-the-badge)
 
 `Adobe Photoshop` `Figma` `蓝湖` `sketch` `Ai`  
 `Ae` `Pr` `Final Cut Pro`
 
-### `拓展栈 - 业余` 
+![](https://img.shields.io/static/v1?label=拓展栈&message=业余&color=eee&style=for-the-badge)
 
 `Nginx` `Python` `SQL` ~~`Php`~~  
 `* vuepress` ~~`* Hexo`~~ 
@@ -31,4 +32,6 @@
 
 ## 找到我
 ***  
-<img src='https://phygray.gitee.io/fffxx/img/share-bilibili.jpg' width="200">
+![](https://img.shields.io/static/v1?label=b站&message=源始太灰&color=brightgreen&logo=bilibili&style=social)  
+<img style="margin-top:10px" src='/fffxx/img/share-bilibili.jpg' width="200">
+
